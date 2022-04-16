@@ -1,4 +1,4 @@
-## TJN App-Boilerplate
+## IJN App-Boilerplate
 **update Apr 17, 2022**
 
 **NEXT JS** with custom config webpack and Babel
